@@ -15,7 +15,7 @@
   "dependencies": {
     "@kyvg/vue3-notification": "2.8.0",
     "@soerenmartius/vue3-clipboard": "0.1.2",
-    "leaflet": "git+https://github.com/JLyne/Leaflet.git#af5b848e260c740de541acb6460611fedb78d1d7",
+    "leaflet": "https://github.com/JLyne/Leaflet#af5b848e260c740de541acb6460611fedb78d1d7",
     "lodash.debounce": "4.0.8",
     "modern-normalize": "1.1.0",
     "vue": "3.2.37",
@@ -66,5 +66,5 @@
     },
     "rules": {}
   },
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.5.3"
 }
